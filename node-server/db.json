@@ -1,0 +1,420 @@
+{
+  "pins": [
+    {
+      "_id": "651d66beb1077d127bfc1baa",
+      "title": "Yang Ball",
+      "latitude": 30.076674,
+      "longitude": -135.198906,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be2ae8f213bc627123",
+      "title": "Jaime Mathis",
+      "latitude": -7.918222,
+      "longitude": 103.510368,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be105807360df39c54",
+      "title": "Kara Duran",
+      "latitude": -1.67174,
+      "longitude": 60.798798,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "J1772",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bea2928f8ecd03e278",
+      "title": "Rosario Tillman",
+      "latitude": 12.738675,
+      "longitude": 173.373323,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be3dcbd15fa5988a11",
+      "title": "Shepard Lawrence",
+      "latitude": 58.922534,
+      "longitude": -88.087724,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bed9f063b4abd7cdb0",
+      "title": "Jones Ferguson",
+      "latitude": -7.072887,
+      "longitude": 139.789673,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "available"
+        },
+        {
+          "type": "J1772",
+          "status": "available"
+        },
+        {
+          "type": "CCS 2",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bea2d2e552e148b863",
+      "title": "Patty Davis",
+      "latitude": -84.139066,
+      "longitude": -74.437004,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be77eebee1e7dd6849",
+      "title": "Henrietta Woodard",
+      "latitude": -47.155278,
+      "longitude": -17.32303,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be2bac42247bb557ba",
+      "title": "Mcguire Whitley",
+      "latitude": -20.326548,
+      "longitude": -118.092313,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "CCS 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bef33d1df4d2b84fbf",
+      "title": "Roberts Santos",
+      "latitude": 50.228965,
+      "longitude": -96.424465,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        },
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bea8f778050fcc48ba",
+      "title": "Diana Sloan",
+      "latitude": -80.672078,
+      "longitude": 151.93223,
+      "connectors": [
+        {
+          "type": "CCS 2",
+          "status": "available"
+        },
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be123b12b4f6b789a6",
+      "title": "Antoinette Edwards",
+      "latitude": 43.676052,
+      "longitude": 174.974962,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be564c8add8947d5ff",
+      "title": "Chen Schroeder",
+      "latitude": 65.328671,
+      "longitude": 18.776913,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bef3fbc6757abe6ff5",
+      "title": "Margery Lynch",
+      "latitude": -34.574571,
+      "longitude": 40.30414,
+      "connectors": [
+        {
+          "type": "CCS 2",
+          "status": "available"
+        },
+        {
+          "type": "CCS 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "J1772",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be37d88b12d2c3819d",
+      "title": "Tiffany Richards",
+      "latitude": 79.983136,
+      "longitude": -179.01876,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "available"
+        },
+        {
+          "type": "CCS 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be650b4bd29c6aa1b2",
+      "title": "Stokes Burris",
+      "latitude": 48.492072,
+      "longitude": 8.533973,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bea23cf450d977b6ed",
+      "title": "Ray Harrell",
+      "latitude": -85.816759,
+      "longitude": 30.163155,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "available"
+        },
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be5e32d06ba341013f",
+      "title": "Marquez Russell",
+      "latitude": -5.873263,
+      "longitude": 150.404079,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        },
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        },
+        {
+          "type": "CCS 2",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be96ac3bf8dfb46528",
+      "title": "Caldwell Nelson",
+      "latitude": -26.232985,
+      "longitude": 74.725374,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        },
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        },
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be4198ceacb1355175",
+      "title": "Black Frank",
+      "latitude": 72.025364,
+      "longitude": -118.961623,
+      "connectors": [
+        {
+          "type": "CCS 2",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be88d0fc0c230a9ffe",
+      "title": "Gonzalez Campbell",
+      "latitude": 49.515547,
+      "longitude": 162.807497,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "available"
+        },
+        {
+          "type": "Type 3",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "_id": "651d66bea1e345d242da7dd6",
+      "title": "Imelda Stuart",
+      "latitude": 79.68141,
+      "longitude": -33.490327,
+      "connectors": [
+        {
+          "type": "J1772",
+          "status": "unavailable"
+        },
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "J1772",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be9841d3a359e0358b",
+      "title": "Billie Pruitt",
+      "latitude": -64.442775,
+      "longitude": -29.680377,
+      "connectors": [
+        {
+          "type": "Type 3",
+          "status": "available"
+        },
+        {
+          "type": "J1772",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be4c56fb0a6cbac572",
+      "title": "Gilliam Chang",
+      "latitude": 67.223325,
+      "longitude": -143.339302,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "available"
+        },
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        },
+        {
+          "type": "Type 3",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "_id": "651d66be69e32d6924fedb0e",
+      "title": "Gamble Chapman",
+      "latitude": 6.842651,
+      "longitude": -160.499855,
+      "connectors": [
+        {
+          "type": "Type 2",
+          "status": "unavailable"
+        }
+      ]
+    }
+  ]
+}
