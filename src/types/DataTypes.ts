@@ -1,16 +1,25 @@
+export enum ConnectorType {
+  J1772 = "J1772",
+  Type2 = "Type2",
+  CCS2 = "CCS 2",
+  Type3 = "Type 3",
+}
+
+export enum ConnectorStatus {
+  available = "available",
+  unavailable = "unavailable",
+}
+
 export interface Pin {
-  _id: number;
+  _id: string | number;
   title: string;
   latitude: number;
   longitude: number;
   connectors: {
-    type: "J1772" | "Type2" | "CCS 2" | "Type 3";
-    status: "available" | "unavailable";
+    type: ConnectorType;
+    status: ConnectorStatus;
   }[];
 }
-
-type ConnectorType = "J1772" | "Type2" | "CCS 2" | "Type 3";
-type ConnectorStatus = "available" | "unavailable";
 
 export interface Connector {
   type: ConnectorType;
