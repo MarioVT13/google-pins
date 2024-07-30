@@ -1,17 +1,5 @@
 import { configureStore, createSlice, PayloadAction } from "@reduxjs/toolkit";
-
-interface Connector {
-  type: "J1772" | "Type2" | "CCS 2" | "Type 3";
-  status: "available" | "unavailable";
-}
-
-interface Pin {
-  id: number;
-  title: string;
-  latitude: number;
-  longitude: number;
-  connectors: Connector[];
-}
+import { Pin } from "./types/DataTypes";
 
 interface PinsState {
   pins: Pin[];

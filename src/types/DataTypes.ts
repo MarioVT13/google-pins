@@ -1,5 +1,5 @@
 export interface Pin {
-  id: number;
+  _id: number;
   title: string;
   latitude: number;
   longitude: number;
